@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/igreg/CLionProjects/prueba/main.c
+scanner.h
+/Users/igreg/CLionProjects/prueba/scanner.h
+
+/Users/igreg/CLionProjects/prueba/scanner.c
+scanner.h
+/Users/igreg/CLionProjects/prueba/scanner.h
+
+/Users/igreg/CLionProjects/prueba/scanner.h
+stdio.h
+-
+stdbool.h
+-
+ctype.h
+-
+

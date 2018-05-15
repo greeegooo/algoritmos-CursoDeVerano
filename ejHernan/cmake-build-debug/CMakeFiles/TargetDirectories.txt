@@ -1,0 +1,3 @@
+/Users/igreg/CLionProjects/ejHernan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/igreg/CLionProjects/ejHernan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/igreg/CLionProjects/ejHernan/cmake-build-debug/CMakeFiles/ejHernan.dir

@@ -1,0 +1,3 @@
+/Users/igreg/Dev/CLionProjects/Conjuntos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/igreg/Dev/CLionProjects/Conjuntos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/igreg/Dev/CLionProjects/Conjuntos/cmake-build-debug/CMakeFiles/Conjuntos.dir
